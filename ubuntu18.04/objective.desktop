@@ -1,0 +1,6 @@
+[[Desktop Entry]
+Name=Objective
+Comment=Objective DE used for SciNix
+Exec=/usr/local/bin/objective
+TryExec=/usr/local/bin/objective
+Type=XSession
