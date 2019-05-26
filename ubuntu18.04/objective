@@ -1,0 +1,5 @@
+#!/bin/sh
+i3 &
+hsetroot -full ~/Sapphire-OS-PreRelease-Alpha-0/abstract.jpg &
+gnome-do &
+docky
